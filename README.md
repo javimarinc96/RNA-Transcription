@@ -1,3 +1,4 @@
+![rna-transcription](https://user-images.githubusercontent.com/44240533/226493393-24180372-1ee1-4636-9400-f605f960f851.svg)
 # RNA Transcription
 
 Welcome to RNA Transcription on Exercism's Java Track.
